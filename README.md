@@ -7,11 +7,9 @@
 
 <br/>
 
-- 🌱 My name is niefee, I am Chinese, welcome to my GitHub home page
-- ⚡ I know HTML
-- 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
-- 💖 Love the beautiful code and photos
-- 🔥 One is never too old to learn.
+- 🌱 Mi nombre es Shrek.mp4
+- ⌨ Solo presiono teclas...
+- 🔥 Mi última cuenta fué marcada como SPAM, no sé porque pero aquí está una nueva ;)
 
 <br/>
 
