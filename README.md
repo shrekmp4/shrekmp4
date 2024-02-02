@@ -4,7 +4,7 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/3f/97/5d/3f975dfe9032ffa30f7f8d2ff97c6ed1.gif" height="180px" />
 </div>
-<a href='https://discord.gg/niniland-hub-1064642215252590592' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Nini hosting-100000?style=for-the-badge&logo=Discord&logoColor=234448&labelColor=FEFCFD&color=E5CCCD'/></a>
+<a href='https://discord.gg/niniland-hub-1064642215252590592' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Niniland_rust-100000?style=for-the-badge&logo=Discord&logoColor=234448&labelColor=FEFFFE&color=FF1E26'/></a>
 <br/>
 
 - 🌱 Mi nombre es Shrek.mp4
