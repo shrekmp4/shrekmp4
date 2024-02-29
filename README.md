@@ -27,7 +27,7 @@
 </div>
 
 <p>
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=peter279k&theme=react"></a>
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shrekmp4&theme=react"></a>
 </p>
 
 <img src="https://profile-counter.glitch.me/shrekmp4/count.svg"/>
