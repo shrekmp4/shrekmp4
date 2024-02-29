@@ -27,10 +27,11 @@
 </div>
 
 
-
+[![Shrek.mp4's github stats](https://github-readme-stats.vercel.app/api?username=shrekmp4)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
+
     <img src="https://profile-counter.glitch.me/shrekmp4/count.svg"/>
   </div> 
 </p>
