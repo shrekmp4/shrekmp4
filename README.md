@@ -2,7 +2,7 @@
 🔨Working...
 ```html
 <script type="module" src="https://unpkg.com/@splinetool/viewer@1.0.82/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/Utov29KknMWMBpdn/scene.splinecode"></spline-viewer>
+<spline-viewer url="https://prod.spline.design/Utov29KknMWMBpdn/scene.splinecode"></spline-viewer>```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KeprVdP7ch) 
