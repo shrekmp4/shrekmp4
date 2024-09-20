@@ -15,4 +15,3 @@
 
 ![shrekmp4's Stats](https://github-readme-stats.vercel.app/api?username=shrekmp4&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![shrekmp4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrekmp4&theme=dark&hide_border=true)
-![shrekmp4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrekmp4&theme=dark&show_icons=true&hide_border=true&layout=compact)
