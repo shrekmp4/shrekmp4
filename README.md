@@ -1,6 +1,6 @@
 ![Alt text](banner.png)
 <h1 align="center">Hi, I'm Srkdev! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shrekmp4_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+![Visitor Count](https://profile-counter.glitch.me/shrekmp4/count.svg)
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
