@@ -1,5 +1,7 @@
 ![Alt text](banner.png)
 <h1 align="center">Hi, I'm Srkdev! 👋 </h1>
+![Visitor](https://profile-counter.glitch.me/shrekmp4/count.svg)
+
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
