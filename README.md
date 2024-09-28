@@ -2,7 +2,7 @@
 
 </p><h1 align="center">Hi, I'm Srkdev! 👋 </h1>
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<h3 align="center">:hammer_and_wrench: Languages and Tools.</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
