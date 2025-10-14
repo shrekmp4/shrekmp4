@@ -12,9 +12,6 @@
 
 ![GitHub Snake](https://github.com/OfficialCodeVoyage/OfficialCodeVoyage/blob/6df7b29dd8219f717a53420721b40af395f5e4b0/github-snake-dark.svg)
 
-![shrekmp4's Stats](https://github-readme-stats.vercel.app/api?username=shrekmp4&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![shrekmp4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrekmp4&theme=dark&hide_border=true)
 
-![Visitor Count](https://profile-counter.glitch.me/shrekmp4/count.svg)
 
 
